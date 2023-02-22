@@ -1,4 +1,4 @@
-name: metafy_document_scanner
+name: cunning_document_scanner
 description: A document scanner plugin for flutter. Scan and crop automatically on iOS and Android.
 version: 1.1.2
 
